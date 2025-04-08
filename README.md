@@ -1,1 +1,2 @@
-This repostary is for binary tree
+This repostary is in cooperation between Abdulaziz and Meshari 
+for the Holbertonschool-binary_trees project
