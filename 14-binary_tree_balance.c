@@ -2,6 +2,9 @@
 
 /**
  * height - helper function to calculate height of a tree
+ * @tree: is a pointer to the root node
+ *
+ * Return: the height value + 1
  */
 int height(const binary_tree_t *tree)
 {
@@ -20,6 +23,9 @@ int height(const binary_tree_t *tree)
 
 /**
  * binary_tree_balance - measures the balamce factor of a binary tree
+ * @tree : is a pointer to the root node
+ *
+ * Return: the balnce between left and right
  */
 int binary_tree_balance(const binary_tree_t *tree)
 {
